@@ -1,0 +1,1 @@
+This was an ML Hackathon conducted by the IIITDM Kancheepuram, the problem statement was to do linear regression on a football dataset which is highly uneven, we applied our best practices to get an accuracy of 72% on this uneven database
